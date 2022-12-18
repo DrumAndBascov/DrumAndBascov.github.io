@@ -1,0 +1,1024 @@
+Uri: https://counter.web.money/h.js
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\h.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Lora:100,100i,300,300i,400,400i,500,500i,700,700i,800,800i,900,900i&subset=cyrillic,cyrillic-ext&display=swap
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:100,100i,300,300i,400,400i,500,500i,700,700i,800,800i,900,900i&subset=cyrillic,cyrillic-ext&display=swap
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\css-5
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:100,100i,300,300i,400,400i,500,500i,700,700i,800,800i,900,900i&subset=cyrillic,cyrillic-ext&display=swap
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Oswald:100,100i,300,300i,400,400i,500,500i,700,700i,800,800i,900,900i&subset=cyrillic,cyrillic-ext&display=swap
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=PT+Sans+Narrow:100,100i,300,300i,400,400i,500,500i,700,700i,800,800i,900,900i&subset=cyrillic,cyrillic-ext&display=swap
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,800,800i,900,900i&subset=cyrillic,cyrillic-ext&display=swap
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lora/v26/0QI6MX1D_JOuGQbT0gvTJPa787weuxJMkqg.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\lora\v26\0QI6MX1D_JOuGQbT0gvTJPa787weuxJMkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v26/0QI6MX1D_JOuGQbT0gvTJPa787wsuxJMkqg.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\lora\v26\0QI6MX1D_JOuGQbT0gvTJPa787wsuxJMkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v26/0QI6MX1D_JOuGQbT0gvTJPa787z5vBJMkqg.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\lora\v26\0QI6MX1D_JOuGQbT0gvTJPa787z5vBJMkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v26/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0CoqJ2mQ.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\lora\v26\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0CoqJ2mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v26/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoqJ2mQ.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\lora\v26\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoqJ2mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v26/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-PgFoqJ2mQ.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\lora\v26\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-PgFoqJ2mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXV0ow.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXV0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXV0ow.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXV0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXV0ow.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXV0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXV0ow.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXV0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXV0ow.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXV0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXV0ow.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXV0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXV0ow.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXV0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw0aX8.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw0aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw0aX8.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw0aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw0aX8.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw0aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw0aX8.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw0aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w0aX8.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w0aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w0aX8.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w0aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w0aX8.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w0aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWV0exQ.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWV0exQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWV0exQ.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWV0exQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWV0exQ.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWV0exQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWV0exQ.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWV0exQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkWV0exQ.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkWV0exQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4taVc.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4taVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4taVc.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4taVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4taVc.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4taVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4taVc.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4taVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4taVc.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4taVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUtiYA.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUtiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUtiYA.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUtiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUtiYA.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUtiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUtiYA.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUtiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsansnarrow/v17/BngRUXNadjH0qYEzV7ab-oWlsbCLwRg.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\ptsansnarrow\v17\BngRUXNadjH0qYEzV7ab-oWlsbCLwRg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsansnarrow/v17/BngSUXNadjH0qYEzV7ab-oWlsbg95AiIW_g.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\ptsansnarrow\v17\BngSUXNadjH0qYEzV7ab-oWlsbg95AiIW_g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEz0dKg.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEz0dKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc3CsE.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc3CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc3CsE.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc3CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc3CsE.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc3CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic3CsE.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic3CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxFIzc.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\roboto\v30\KFOkCnqEu92Fr1MmgVxFIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xFIzc.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\roboto\v30\KFOkCnqEu92Fr1Mu51xFIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCRc9.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fCRc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCRc9.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fCRc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCRc9.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfCRc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfCRc9.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfCRc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xP.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\s\roboto\v30\KFOmCnqEu92Fr1Mu72xP.ttf
+Content Type: font/ttf
+
+Uri: https://site846950257.fo.team/
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\index.htm
+Content Type: text/html
+
+Uri: https://site846950257.fo.team/assets/application-foru-preview-cutted-4d59207111fc9607570da9292ed677c9c485e35f9ed49ba5294244b8e63be967.css
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\application-foru-preview-cutted-4d59207111fc9607570da9292ed677c9c485e35f9ed49ba5294244b8e63be967.css
+Content Type: text/css
+
+Uri: https://site846950257.fo.team/assets/application-foru-preview-selectize-b524148b2bd1f7e223caff7ce839dbb5a67c40023ab9dbb059cc9d14b2710ddf.css
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\application-foru-preview-selectize-b524148b2bd1f7e223caff7ce839dbb5a67c40023ab9dbb059cc9d14b2710ddf.css
+Content Type: text/css
+
+Uri: https://site846950257.fo.team/assets/bootstrap.min-fffe42e8073aaadb9fcc689a2597a4e9d34d41592f6ea8c7f5bc073dc6aa28c9.js
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\bootstrap.min-fffe42e8073aaadb9fcc689a2597a4e9d34d41592f6ea8c7f5bc073dc6aa28c9.js
+Content Type: application/javascript
+
+Uri: https://site846950257.fo.team/assets/fonts-d153bae037f72bf25dd642af44791f914f7b2b016794dd9ea8a8583bc53e8cc1.css
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts-d153bae037f72bf25dd642af44791f914f7b2b016794dd9ea8a8583bc53e8cc1.css
+Content Type: text/css
+
+Uri: https://site846950257.fo.team/assets/fonts/affect-bold.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\affect-bold.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/Flaticon/Flaticon.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Flaticon\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Flaticon/Flaticon.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Flaticon\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Flaticon/Flaticon.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Flaticon\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/Flaticon/Flaticon.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Flaticon\Flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/Flaticon/Flaticon.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Flaticon\Flaticon.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/material-design/materialdesignicons-webfont.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\material-design\materialdesignicons-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/material-design/materialdesignicons-webfont.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\material-design\materialdesignicons-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/material-design/materialdesignicons-webfont.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\material-design\materialdesignicons-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/material-design/materialdesignicons-webfont.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\material-design\materialdesignicons-webfont.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/material-design/materialdesignicons-webfont.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\material-design\materialdesignicons-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/MaterialIcons/MaterialIcons-Regular.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\MaterialIcons\MaterialIcons-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/MaterialIcons/MaterialIcons-Regular.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\MaterialIcons\MaterialIcons-Regular.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/MaterialIcons/MaterialIcons-Regular.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\MaterialIcons\MaterialIcons-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100Italic.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100Italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100Italic.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100Italic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100Italic.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100Italic.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100Italic.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100Italic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100Italic.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100Italic.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100Italic.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100Italic.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100Italic_1.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100Italic_1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100Italic_1.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100Italic_1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100Italic_1.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100Italic_1.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100Italic_1.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100Italic_1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100Italic_1.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100Italic_1.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100Italic_1.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100Italic_1.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100_1.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100_1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100_1.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100_1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100_1.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100_1.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100_1.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100_1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100_1.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100_1.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-100_1.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-100_1.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300Italic.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300Italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300Italic.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300Italic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300Italic.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300Italic.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300Italic.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300Italic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300Italic.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300Italic.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300Italic.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300Italic.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300Italic_1.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300Italic_1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300Italic_1.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300Italic_1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300Italic_1.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300Italic_1.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300Italic_1.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300Italic_1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300Italic_1.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300Italic_1.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300Italic_1.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300Italic_1.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300_1.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300_1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300_1.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300_1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300_1.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300_1.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300_1.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300_1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300_1.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300_1.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-300_1.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-300_1.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500Italic.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500Italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500Italic.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500Italic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500Italic.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500Italic.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500Italic.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500Italic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500Italic.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500Italic.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500Italic.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500Italic.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500Italic_1.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500Italic_1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500Italic_1.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500Italic_1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500Italic_1.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500Italic_1.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500Italic_1.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500Italic_1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500Italic_1.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500Italic_1.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500Italic_1.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500Italic_1.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500_1.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500_1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500_1.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500_1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500_1.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500_1.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500_1.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500_1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500_1.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500_1.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-500_1.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-500_1.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700Italic.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700Italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700Italic.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700Italic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700Italic.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700Italic.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700Italic.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700Italic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700Italic.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700Italic.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700Italic.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700Italic.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700Italic_1.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700Italic_1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700Italic_1.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700Italic_1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700Italic_1.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700Italic_1.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700Italic_1.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700Italic_1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700Italic_1.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700Italic_1.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700Italic_1.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700Italic_1.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700_1.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700_1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700_1.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700_1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700_1.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700_1.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700_1.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700_1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700_1.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700_1.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-700_1.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-700_1.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900Italic.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900Italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900Italic.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900Italic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900Italic.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900Italic.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900Italic.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900Italic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900Italic.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900Italic.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900Italic.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900Italic.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900Italic_1.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900Italic_1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900Italic_1.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900Italic_1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900Italic_1.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900Italic_1.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900Italic_1.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900Italic_1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900Italic_1.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900Italic_1.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900Italic_1.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900Italic_1.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900_1.eot
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900_1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900_1.eot?
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900_1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900_1.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900_1.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900_1.ttf
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900_1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900_1.woff
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900_1.woff
+Content Type: font/woff
+
+Uri: https://site846950257.fo.team/assets/fonts/Museo/MuseoSansCyrl-900_1.woff2
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\fonts\Museo\MuseoSansCyrl-900_1.woff2
+Content Type: font/woff2
+
+Uri: https://site846950257.fo.team/assets/images/admin/backgrounds/bg-grey-lines.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\backgrounds\bg-grey-lines.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/alerts/icon-alert-error-white.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\alerts\icon-alert-error-white.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/alerts/icon-alert-error.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\alerts\icon-alert-error.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/alerts/icon-alert-info-white.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\alerts\icon-alert-info-white.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/alerts/icon-alert-info.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\alerts\icon-alert-info.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/alerts/icon-alert-success-white.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\alerts\icon-alert-success-white.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/alerts/icon-alert-success.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\alerts\icon-alert-success.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/alerts/icon-alert-warning-white.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\alerts\icon-alert-warning-white.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/alerts/icon-alert-warning.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\alerts\icon-alert-warning.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/flickr.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\flickr.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/icon-checkbox-checked.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\icon-checkbox-checked.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/icon-checkbox.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\icon-checkbox.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/icon-dark-blue-arrow-bottom.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\icon-dark-blue-arrow-bottom.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/icon-dark-blue-check.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\icon-dark-blue-check.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/icon-dark-blue-checkbox-checked.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\icon-dark-blue-checkbox-checked.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/icon-dark-blue-checkbox.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\icon-dark-blue-checkbox.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/icon-dark-blue-close.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\icon-dark-blue-close.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/icon-dark-blue-pencil.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\icon-dark-blue-pencil.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/icon-dark-blue-trash.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\icon-dark-blue-trash.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/icon-grey-move.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\icon-grey-move.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/icon-grey-star.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\icon-grey-star.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/icon-salmon-arrow-bottom.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\icon-salmon-arrow-bottom.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/icon-salmon-light-exclamation-mark.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\icon-salmon-light-exclamation-mark.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/icon-salmon-star.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\icon-salmon-star.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/icon-white-arrow-bottom.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\icon-white-arrow-bottom.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/icon-white-arrow-top.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\icon-white-arrow-top.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/icon-white-file-upload.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\icon-white-file-upload.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/icon-white-plus.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\icon-white-plus.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/pages/icon-dark-blue-arrow-right.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\pages\icon-dark-blue-arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/pexels.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\pexels.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/sidebar/sidebar-active-link.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\sidebar\sidebar-active-link.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/sidebar/sidebar-category-figma.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\sidebar\sidebar-category-figma.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/unsplash.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\unsplash.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/icons/vk.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\icons\vk.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/admin/loaders/animation-loader-bricks.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\admin\loaders\animation-loader-bricks.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/lock.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\lock.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/photo.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\photo.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/preview/icon-arrow-left.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\preview\icon-arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/preview/icon-arrow-right.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\preview\icon-arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/preview/icon-close.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\preview\icon-close.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/images/shop/put-to-cart.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\images\shop\put-to-cart.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/js/foruformconstructor.js?1671025268297
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\js\foruformconstructor.js
+Content Type: application/javascript
+
+Uri: https://site846950257.fo.team/assets/logo-foru-f53f0c4bbf7d99fa723560992783024dcd900ac73e086a37f65e6e7a751fd2b7.svg
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\logo-foru-f53f0c4bbf7d99fa723560992783024dcd900ac73e086a37f65e6e7a751fd2b7.svg
+Content Type: image/svg+xml
+
+Uri: https://site846950257.fo.team/assets/preview-93e3e388a6f89cd71f77287476c8b42e519e78113920b680803bbab13dafe375.js
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\assets\preview-93e3e388a6f89cd71f77287476c8b42e519e78113920b680803bbab13dafe375.js
+Content Type: application/javascript
+
+Uri: https://site846950257.fo.team/favicon.ico
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://site846950257.fo.team/img/favicons/s.png
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\img\favicons\s.png
+Content Type: image/png
+
+Uri: https://site846950257.fo.team/img/favicons/s_resized.png
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\img\favicons\s_resized.png
+Content Type: image/png
+
+Uri: https://site846950257.fo.team/img/skype_icon_32x32.png
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\img\skype_icon_32x32.png
+Content Type: image/png
+
+Uri: https://site846950257.fo.team/img/telegram_icon_32x32.png
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\img\telegram_icon_32x32.png
+Content Type: image/png
+
+Uri: https://site846950257.fo.team/img/whatsapp_icon_32x32.png
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\img\whatsapp_icon_32x32.png
+Content Type: image/png
+
+Uri: https://www.google-analytics.com/analytics.js
+File Name: C:\Users\ам\Desktop\Проги и дз\Проект\site\site846950257.fo.team\analytics.js
+Content Type: text/javascript
+

@@ -1,0 +1,42 @@
+﻿@font-face {
+  font-family: 'Lora';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/lora/v26/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoqJ2mQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/lora/v26/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-PgFoqJ2mQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/lora/v26/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0CoqJ2mQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/lora/v26/0QI6MX1D_JOuGQbT0gvTJPa787weuxJMkqg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/lora/v26/0QI6MX1D_JOuGQbT0gvTJPa787wsuxJMkqg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/lora/v26/0QI6MX1D_JOuGQbT0gvTJPa787z5vBJMkqg.ttf) format('truetype');
+}
